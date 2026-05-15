@@ -7,7 +7,16 @@ runs/
 *.log
 
 data/videos/
+
+# YOLO / model weights and exports
 models/*.pt
+*.pt
+*.onnx
+*.engine
+*.torchscript
+*.mlpackage
+*.tflite
+*.pb
 
 *.tmp.docx
 *.tmp.pptx
