@@ -1,6 +1,6 @@
-# VisionStick V2
+# VisionStick
 
-VisionStick V2 is a real-time computer vision navigation assistant for visually impaired users. It detects obstacles from a webcam or video file, estimates relative depth, tracks objects over time, ranks the most relevant danger, and gives short audio warnings.
+VisionStick is a real-time computer vision navigation assistant for visually impaired users. It detects obstacles from a webcam or video file, estimates relative depth, tracks objects over time, ranks the most relevant danger, and gives short audio warnings.
 
 The system uses two YOLOv8 models together:
 
