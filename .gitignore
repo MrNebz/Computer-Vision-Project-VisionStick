@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+
+Ultralytics/
+runs/
+*.log
+
+data/videos/
+models/*.pt
+
+*.tmp.docx
+*.tmp.pptx
